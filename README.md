@@ -73,5 +73,6 @@ Microsoft Excel / CSV — Data cleaning and integration
 This Power BI project effectively highlights how data-driven dashboards can reveal actionable insights about customer spending, regional performance, and product profitability.
 It empowers stakeholders to identify growth opportunities, optimize marketing timing, and improve retention strategies through clear, visual analytics.
 
-Submitted to - Mr Abhishek Ashish Sir 
+Submitted to - Mr Abhishek Ashish Sir
+
 Submitted by - Deepak Gupta
