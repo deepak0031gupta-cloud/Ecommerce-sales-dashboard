@@ -15,7 +15,9 @@ Regional Performance: Highest order frequency observed in Uttar Pradesh, Delhi, 
 
 Seasonal Trends: Order activity peaks between August and December, aligning with festival periods.
 
+
 ⚙️ Dashboard Features
+
 
 📈 Dynamic Visuals — Revenue, Profit, and Quantity trends with drill-downs by Category, Sub-Category, and State.
 
@@ -30,6 +32,7 @@ Average Order Value (AOV)
 Quantity Sold
 
 Profit Margin %
+
 
 🎨 Interactive Filters — By Category, Sub-Category, Payment Mode, and Region.
 
@@ -64,12 +67,7 @@ DAX (Data Analysis Expressions) — For KPI measures and calculated fields
 
 Microsoft Excel / CSV — Data cleaning and integration
 
-📂 Project Files
-File	Description
-Details.csv	Sales and product details (amount, profit, category, payment)
-Orders.csv	Customer, state, and city data linked via Order ID
-ShoppingBehaviorDashboard.pbix	Power BI dashboard file
-README.md	Project documentation
+
 🧠 Conclusion
 
 This Power BI project effectively highlights how data-driven dashboards can reveal actionable insights about customer spending, regional performance, and product profitability.
